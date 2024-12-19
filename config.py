@@ -1,2 +1,2 @@
-API_TOKEN = '7471075591:AAEI-C2vZrr9teLFxGfdRQuRcrYTWcFHU34'
+API_TOKEN = ''
 DB_NAME = 'quiz_bot.db'
