@@ -5,4 +5,4 @@
 - `/quiz` - начать квиз
 
 ### Ссылка на бота 
-[Zarutv_bot](t.me/Zarutv_bot)
+[Zarutv_bot](@Zarutv_bot)
